@@ -24,5 +24,5 @@ and, then, run the command
 
 python process_img_covid.py path_to_image
 
-The report will be generated in the same folder with the name **report.pdf**
+The report will be generated in the same folder with the name **report.pdf**. A couple of examples can be seen in this repository
 
